@@ -1910,10 +1910,10 @@ textarea {
   -webkit-appearance: none;
   -ms-appearance: none;
   appearance: none;
-  background: #f7f7f7;
+  background: #ECEFF4;
   border-radius: 0.35em;
   border: solid 2px transparent;
-  color: inherit;
+  color: #2E3440;
   display: block;
   outline: 0;
   padding: 0 0.75em;
@@ -2328,7 +2328,7 @@ ul.labeled-icons li a {
 }
 
 ul.labeled-icons li h3 {
-  color: #b2b2b2;
+  color: #4C566A;
   left: 0;
   position: absolute;
   text-align: center;

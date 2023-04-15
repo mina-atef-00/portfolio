@@ -2567,7 +2567,7 @@ input[type='submit']:active,
 input[type='reset']:active,
 input[type='button']:active,
 .button:active {
-  background-color: rgba(73, 191, 157, 0.1);
+  background-color: rgba(94, 129, 172, 0.1);
   border-color: #5e81ac;
   color: #5e81ac !important;
 }
